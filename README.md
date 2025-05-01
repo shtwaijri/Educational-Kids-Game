@@ -65,7 +65,7 @@ Make sure to use the following widgets in your implementation:
 ---
 
 ### 🕐 Deadline
-**August 18, 2024 at 9:59 AM**
+**May 4, 2025 at 10 AM**
 
 ---
 
