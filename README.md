@@ -1,76 +1,43 @@
 ## Educational Kids Game App Development  
+A simple and colorful UI for a kids’ learning app.
 
-![](https://paper-attachments.dropboxusercontent.com/s_EC856D14A88170213B067D8FD667610D4B2512CF2A7941C2EA4858B180A6A81F_1739186832780_image.png)
+![Log in Page (3)](https://github.com/user-attachments/assets/b8d6163d-bc20-4274-9b3e-bfc1469993f6)
 
 
-### 📘 Introduction
-Welcome to the **Flutter UI Implementation** project!  
-In this project, you will use the **Flutter** framework to implement a set of user interfaces based on a Figma design. The goal is to **enhance your proficiency** in Flutter development and UI implementation.
+![Log in Page (4)](https://github.com/user-attachments/assets/fd815fea-1b81-4208-a1b2-cfb055bc5fa0)
 
----
 
-### 🎯 UI to Implement
-You are required to implement the following Figma design user interfaces:
+## Features
 
-**🔗 Figma Design:**  
-[Educational Kids Game - Figma](https://www.figma.com/file/hr7vmPgtKJd95quaTZr5bt/Educational-kids-game-(Community)?type=design&node-id=0%3A1&mode=design&t=z9KUqxH5qF2QA9xp-1)
+- Friendly interface for children
 
----
+- Easy bottom navigation
 
-### 🧱 Mandatory List of Widgets
-Make sure to use the following widgets in your implementation:
 
-- `Column`  
-- `Row`  
-- `ListView` or related scrollable widgets  
-- `AppBar`  
-- `TextField`  
-- `Icon`  
-- `Button`  
-- `Image`  
+## Tech Stack 
+- Flutter (latest version) 
+- Dart
 
----
 
-### ✅ Requirements
+## Installation 
+1.	Clone the repository: 
+git clone https://github.com/shtwaijri/Educational-Kids-Game.git
 
-#### 📂 Code Organization
-- Organize your Flutter project in a **clean and structured** manner.
+2.	Navigate to the project folder: 
+cd  Educational-Kids-Game
 
-#### 🧩 Widget Usage
-- Ensure **all listed widgets** are used in your UI implementation.
+3. Install dependencies: 
+flutter pub get 
 
-#### 🔁 Navigation
-- Include **navigation between screens** or sections in your app.
+4.	Run the app: 
+flutter run 
 
----
+## How to Use 
+- Open the app. 
+- Browse through available screens. 
 
-### 📤 Submission Guidelines
-
-1. **Fork** the repository and **clone** it to your local machine.  
-2. Create a **new branch** with your name, using the format:  
-   `FirstName-LastName`  
-   Example: `Nasser-GH`
-3. Commit your changes **frequently** and push them.  
-4. Finally, **create a pull request** to the original repository.
-
----
-
-### ❗ Notes
-
-- This is an **individual** assignment. **No collaboration** is allowed.
-- **Do not** add or remove any elements from the UI.
-- The UI must match the provided Figma design **exactly**.
-- Include **screenshots** of your UI in the project’s README file.
-
----
-
-### 🕐 Deadline
-**May 4, 2025 at 10 AM**
-
----
-
-### 📌 Additional Notes
-If you need **clarification or help**, don’t hesitate to ask.
+## Author 
+- Shatha Altwaijri 
 
 ---
 
